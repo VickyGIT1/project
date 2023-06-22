@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Value is Entered****-****[[ChromeDriver: chrome on WINDOWS (58460a9dec8c97ca0cd278769b52f3a9)] -> xpath: //*[contains(@placeholder,'Enter your User ID')]]]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-06-21T15:48:38 IST" name="Default suite" finished-at="2023-06-21T15:48:48 IST" duration-ms="10129">
+    <groups>
+    </groups>
+    <test started-at="2023-06-21T15:48:38 IST" name="Default test" finished-at="2023-06-21T15:48:48 IST" duration-ms="10129">
+      <class name="com.nasscom.testcase.Testcase">
+        <test-method is-config="true" signature="verifywebdriver()[pri:0, instance:com.nasscom.testcase.Testcase@3527942a]" started-at="2023-06-21T15:48:38 IST" name="verifywebdriver" finished-at="2023-06-21T15:48:44 IST" duration-ms="5819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifywebdriver -->
+        <test-method signature="TC_01_login()[pri:1, instance:com.nasscom.testcase.Testcase@3527942a]" started-at="2023-06-21T15:48:44 IST" name="TC_01_login" finished-at="2023-06-21T15:48:48 IST" duration-ms="4258" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Value is Entered****-****[[ChromeDriver: chrome on WINDOWS (58460a9dec8c97ca0cd278769b52f3a9)] -> xpath: //*[contains(@placeholder,'Enter your User ID')]]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_01_login -->
+        <test-method signature="TC_02_login()[pri:2, instance:com.nasscom.testcase.Testcase@3527942a]" started-at="2023-06-21T15:48:48 IST" name="TC_02_login" finished-at="2023-06-21T15:48:48 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02_login -->
+      </class> <!-- com.nasscom.testcase.Testcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
